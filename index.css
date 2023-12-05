@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
 
+@media screen and (max-width: 768px) {
+    .logo{
+    float: none;
+    text-align: center;
+  }
+ header ul li {
+      float: none;
+      text-align: center;
+
+  }
+
+  #middal button{
+    float: none;
+    text-align: center;
+  }
 
 body{
     background-image:
