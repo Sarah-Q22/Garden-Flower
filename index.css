@@ -50,9 +50,8 @@ header ul {
    
 }
 header ul li{
-   
+    margin-right:30px ; 
     float: right;
-    margin-right:30px ;  
 }
 header ul li a{
     padding: 6px 15px ;
